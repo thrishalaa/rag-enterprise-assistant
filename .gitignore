@@ -1,0 +1,25 @@
+# Environment
+.env
+venv/
+__pycache__/
+
+# Models (never upload)
+models/
+*.gguf
+*.bin
+*.pt
+
+# Data & stored vectors
+data/faiss_index/
+data/*.db
+data/uploads/
+
+# Logs
+logs/
+
+# Streamlit cache
+.streamlit/
+
+# OS junk
+.DS_Store
+Thumbs.db

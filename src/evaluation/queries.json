@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is the leave policy?",
+    "relevant_sources": ["docs/EnterpriCorp Employee Handbook Comprehensive Draft.pdf"]
+  },
+  {
+    "question": "How many PTO days does an employee with four years of continuous service accrue annually?",
+    "relevant_sources": ["docs/EnterpriCorp Employee Handbook Comprehensive Draft.pdf"]
+  },
+   {
+    "question": "What is the maximum number of failed login attempts before the Cloud Console system locks an account?",
+    "relevant_sources": ["docs/Customer Support Knowledge Base FAQ PDF.pdf"]
+   },
+   {
+    "question": "What is the handling requirement for data classified as 'Confidential'?",
+    "relevant_sources": ["docs/EnterpriCorp Employee Handbook Comprehensive Draft.pdf"]
+  },
+  {
+    "question": "What is the maximum latency requirement for the violation alert trigger (REQ-4.1.3)?",
+    "relevant_sources": ["docs/Product Requirements Document PDF.pdf","docs/EnterpriCorp Employee Handbook Comprehensive Draft.pdf"]
+  },
+  {
+    "question": "What are the steps to reset a forgotten password using the Cloud Console?",
+    "relevant_sources": ["docs/Customer Support Knowledge Base FAQ PDF.pdf"]
+  }
+]

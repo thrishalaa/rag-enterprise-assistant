@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+langchain
+sentence-transformers
+faiss-cpu
+pypdf
+python-multipart
+llama-cpp-python   # optional: only if you plan to use llama.cpp
+gpt4all            # optional: if you prefer GPT4All
+streamlit
+requests
+sqlitedict
+python-dotenv
+pypdf
+python-jose[cryptography]
+passlib[bcrypt]   # if you want to manage hashed passwords later
